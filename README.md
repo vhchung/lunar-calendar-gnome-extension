@@ -27,7 +27,6 @@ Lịch Âm Việt Nam là một tiện ích mở rộng cho GNOME Shell giúp hi
 1. Tải về nguồn phần mềm:
    ```bash
    git clone https://github.com/vhchung/lunar-calendar-gnome-extension.git
-   cd lunar-calendar-gnome-extension
    ```
 
 2. Sao chép vào thư mục extensions của GNOME:
@@ -100,7 +99,6 @@ Vietnamese Lunar Calendar is a GNOME Shell extension that displays the Vietnames
 1. Download the source code:
    ```bash
    git clone https://github.com/vhchung/lunar-calendar-gnome-extension.git
-   cd lunar-calendar-gnome-extension
    ```
 
 2. Copy to GNOME extensions directory:
