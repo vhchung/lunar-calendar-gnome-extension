@@ -1,0 +1,14 @@
+.lunar-label {
+    font-size: 0.9em;
+    margin-left: 8px; /* Tạo khoảng cách với đồng hồ */
+    color: #cccccc; /* Màu chữ hơi xám để dễ phân biệt */
+}
+
+.lunar-detail-label {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #e6e6e6;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 10px;
+}

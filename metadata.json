@@ -1,0 +1,8 @@
+{
+  "name": "Lịch Âm Việt Nam",
+  "description": "Hiển thị ngày âm lịch trên thanh bar và trong popup lịch của GNOME Shell.",
+  "uuid": "lunar-calendar@chungvh.com",
+  "shell-version": ["45", "46"],
+  "url": "",
+  "version": 1
+}
